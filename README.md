@@ -8,6 +8,7 @@ Operaciones básicas
 
 - Resultado
 
-  ![image](https://github.com/user-attachments/assets/031ea892-aa1d-4979-a832-cb971d8280b7)
+  ![image](https://github.com/user-attachments/assets/d1453cad-a90a-409f-9265-f5ee40271cd8)
+
 
 
